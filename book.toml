@@ -1,0 +1,6 @@
+[book]
+authors = ["The ReproduCS Authors"]
+language = "en"
+multilingual = false
+src = "src"
+title = "ReproduCS"
